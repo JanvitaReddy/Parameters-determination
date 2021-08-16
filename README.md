@@ -6,6 +6,7 @@ To Find Dynamical Parameters of Galaxy
 ## Step 1: Download Images in Bulk
 
 ![Alt test](https://drive.google.com/file/d/14INH2vADWHrdueTYehaS2gbRj70aPT4F/view?usp=sharing)
+![sideview](https://user-images.githubusercontent.com/67388655/129599651-44600d8f-1d4c-4528-ba2c-85fee31026b7.png)
 
 ## Step 2: Clone or Download the repository
 Use 
