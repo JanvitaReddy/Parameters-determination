@@ -20,8 +20,11 @@ For settings:
 10. Go to line number 61 in Download.py and update the spin for which you have ran the query (As shown in the figure)
 
 ![image](https://user-images.githubusercontent.com/67388655/129600188-e09f1165-c7cf-4172-998f-e821561f7023.png)
+
+For example:
 ![image](https://user-images.githubusercontent.com/67388655/129599891-eef34816-4b46-4077-93b2-c97914388f1c.png)
 
+NOTE: Downloading of the Images might be slower than your Internet speed
 
 ## Step 2: Clone or Download the repository
 Use 
