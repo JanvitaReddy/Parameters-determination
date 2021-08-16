@@ -3,11 +3,17 @@
 
 To Find Dynamical Parameters of Galaxy 
 
-## Step 1: Clone or Download the repository
+## Step 1: Download Images in Bulk
+
+![Alt test](https://drive.google.com/file/d/14INH2vADWHrdueTYehaS2gbRj70aPT4F/view?usp=sharing)
+
+## Step 2: Clone or Download the repository
 Use 
 ```git clone https://github.com/adarsh3601/Parms-Extraction_Galaxy_Merger_DL.git```
 
-## Step 2: Installation of Libraries 
+
+
+## Step 3: Installation of Libraries 
 Installation of Autokeras
 Can Refer to https://github.com/keras-team/autokeras
 or can simply use 
@@ -24,7 +30,7 @@ Installation of Tensorflow
 ```python
 pip install tensorflow
 ```
-
+## Step 4: Running the Deep Learning Model
 ### Case 1: 
 For using Pretrained Model or for gSa and gSb interaction: 
 
@@ -39,4 +45,6 @@ For training the new model for different data:
 1. Optional- You can clone the repository or download the model from the link https://bit.ly/3jU0ir7
 2. Use the pretrained weights or you can train the model from scratch from https://autokeras.com/
 3. Can use the Detect.py for corresponding Images supplying path of newly trained model
+
+
 
