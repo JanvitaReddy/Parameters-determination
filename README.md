@@ -5,8 +5,23 @@ To Find Dynamical Parameters of Galaxy
 
 ## Step 1: Download Images in Bulk
 
-![Alt test](https://drive.google.com/file/d/14INH2vADWHrdueTYehaS2gbRj70aPT4F/view?usp=sharing)
-![sideview](https://user-images.githubusercontent.com/67388655/129599651-44600d8f-1d4c-4528-ba2c-85fee31026b7.png)
+Use Download.py for downloading images and settings.ini file for configuration 
+For settings:
+1. Open settings.ini in any editor
+2. In angles put the range of &Theta; and &Phi;
+3. Insert with what step the angle should increase
+4. put the other parameters 
+5. for selecting checkboxes; put 1 if checked and 0 if unchecked
+6. Run the GalMer query at http://galmer.obspm.fr/
+7. Select the Run you want to download
+8. Find the show number for the timestamp you want to select as shown in the Image 
+![image](https://user-images.githubusercontent.com/67388655/129602029-c49a6962-336b-4e66-a930-68f4afae4cda.png)
+9. Insert the show number in the settings.ini experiments/shows:
+10. Go to line number 61 in Download.py and update the spin for which you have ran the query (As shown in the figure)
+
+![image](https://user-images.githubusercontent.com/67388655/129600188-e09f1165-c7cf-4172-998f-e821561f7023.png)
+![image](https://user-images.githubusercontent.com/67388655/129599891-eef34816-4b46-4077-93b2-c97914388f1c.png)
+
 
 ## Step 2: Clone or Download the repository
 Use 
