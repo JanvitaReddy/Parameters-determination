@@ -28,8 +28,8 @@ NOTE: Downloading of the Images might be slower than your Internet speed
 
 ## Step 2: Clone or Download the repository
 Use 
-```git clone https://github.com/adarsh3601/Parms-Extraction_Galaxy_Merger_DL.git```
-
+```git clone https://github.com/JanvitaReddy/Parameters-determination.git```
+Or Download and extract the Repository
 
 
 ## Step 3: Installation of Libraries 
