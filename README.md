@@ -40,15 +40,7 @@ or can simply use
 pip install git+https://github.com/keras-team/keras-tuner.git
 pip install autokeras
 ```
-For python3
-```python
-python3 -m pip install git+https://github.com/keras-team/keras-tuner.git
-python3 -m pip install autokeras
-```
-Installation of Tensorflow
-```python
-pip install tensorflow
-```
+
 ## Step 4: Running the Deep Learning Model
 ### Case 1: 
 For using Pretrained Model or for gSa and gSb interaction: 
