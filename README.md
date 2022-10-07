@@ -11,8 +11,8 @@ For settings:
 2. In angles put the range of &Theta; and &Phi;
 3. Insert with what step the angle should increase
 4. put the other parameters 
-5. for selecting checkboxes; put 1 if checked and 0 if unchecked
-6. Run the GalMer query at http://galmer.obspm.fr/
+5. Run the GalMer query at http://galmer.obspm.fr/
+6. For selecting checkboxes present on the visualization page after querying on GalMer ; put 1 if checked and 0 if unchecked
 7. Select the Run you want to download
 8. Find the show number for the timestamp you want to select as shown in the Image 
 ![image](https://user-images.githubusercontent.com/67388655/129602029-c49a6962-336b-4e66-a930-68f4afae4cda.png)
@@ -48,7 +48,7 @@ For using Pretrained Model or for gSa and gSb interaction:
 Run Detect.py for corresponding Images 
 
 Note here:
-1. Model is trained for Image of dimensions 64x64x3. To run model flawlessly please resize the image to the 64x64x3 dimensions
+1. Model is trained for Image of dimensions 64x64x3. To run the model please resize the image to the 64x64x3 dimensions
 2. The folder "model" in cloned repository should be 94.8 MB (9,94,96,042 bytes). If it dosen't match, it is advised to download from https://bit.ly/3jU0ir7
 
 ### Case 2:
